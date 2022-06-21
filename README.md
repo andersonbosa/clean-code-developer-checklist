@@ -171,7 +171,7 @@ A developer checklist mostly derived from the book **Clean Code by Robert C Mart
 
 #### 🟢 **Avoid code duplication**
 
-- The DRY principle.
+- The DRY principle. `Don't Repeaty Yourself`
 
 <br/>
 <hr>
