@@ -2,6 +2,8 @@
 
 A developer checklist mostly derived from the book **Clean Code by Robert C Martin**
 
+> See to ["Gitlab: Code Review Guidelines"](https://docs.gitlab.com/ee/development/code_review.html#everyone)
+
 ## Table of contents :bookmark_tabs:
 
 - [Naming things](#naming-things-u5272)
